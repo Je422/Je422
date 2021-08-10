@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Je422
+- 👋 Hi, I’m Jerilyn Daniel
 - 👀 I’m interested in Tech Recruiting
-- 💞️ I’m looking for top tech talent for Amazon
+- 💞️ I’m looking for tech talent for Amazon with expertise in Data Structure, Algorithms, System Design(HLL & LLD) and Distributed System.
 - 📫 How to reach me - https://www.linkedin.com/in/jerilyn-daniel-3a1294a9/
 
 <!---
